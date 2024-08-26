@@ -1,2 +1,3 @@
-This is some textnew branch
+This is some text
+new branch
 some text
